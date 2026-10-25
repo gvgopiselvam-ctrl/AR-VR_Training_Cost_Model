@@ -32,12 +32,11 @@ Rather than analyzing a single static spreadsheet, this project combines three o
 
 ---
 
-## 5. Visual Diagnostic
-![AR/VR Unit Economics Curve](visuals/arvr_unit_economics_curve.png)
+
 
 ---
 
-## 6. Repository Structure
+## 5. Repository Structure
 * `/model/ARVR_Operational_Cash_Model.xlsx` — Multi-tab workbook featuring the Executive Summary dashboard, Cohort Cash Model, and 2-Way Sensitivity Matrix.
 * `/python/iot_telemetry_erp_etl.py` — Automated telemetry hygiene and ERP merge script.
 * `/sql/arvr_iot_erp_enrichment_pipeline.sql` — Data cleaning, ERP enrichment joins, and unit-economics SQL queries.
